@@ -1,6 +1,4 @@
 *.swp
-out*.png
-*.png
 *.prototxt*
 *.caffemodel
 models/
